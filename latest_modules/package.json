@@ -1,0 +1,11 @@
+{
+  "name": "latest_modules",
+  "version": "1.0.0",
+  "description": "for latest node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
