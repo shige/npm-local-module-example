@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bakorer/npm-local-module-example#readme",
   "dependencies": {
-    "lodash": "^1.0.0"
+    "lodash": "^1.0.0",
+    "moment": "^1.0.0"
   }
 }
