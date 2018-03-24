@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bakorer/npm-local-module-example/issues"
   },
-  "homepage": "https://github.com/bakorer/npm-local-module-example#readme"
+  "homepage": "https://github.com/bakorer/npm-local-module-example#readme",
+  "dependencies": {
+    "lodash": "^1.0.0"
+  }
 }
